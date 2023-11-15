@@ -1,6 +1,6 @@
 # shopping-list-server
 
-how to run the aplication
+Guide to running the API:
 
 1. git clone to you computer - git clone https://github.com/amitnoyberg18/shopping-list-server.git
 
